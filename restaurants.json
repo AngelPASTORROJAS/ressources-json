@@ -1,0 +1,45 @@
+{
+    "restaurants": [
+      {
+        "id": 1,
+        "nom": "Le Petit Bistro",
+        "logo_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/4a/ea/4f/caption.jpg?w=1000&h=-1&s=1",
+        "temps_trajet": 25,
+        "note": 4.5,
+        "prix_livraison": 3.99
+      },
+      {
+        "id": 2,
+        "nom": "Sushi Express",
+        "logo_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/76/b7/66/chirashi-aux-trois-poissons.jpg?w=600&h=400&s=1",
+        "temps_trajet": 15,
+        "note": 4.2,
+        "prix_livraison": 2.99
+      },
+      {
+        "id": 3,
+        "nom": "Pizza Perfection",
+        "logo_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/3f/82/74/pizza-roquette-balsamique.jpg?w=1000&h=600&s=1",
+        "temps_trajet": 30,
+        "note": 4.8,
+        "prix_livraison": 4.50
+      },
+      {
+        "id": 4,
+        "nom": "Burger Palace",
+        "logo_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/17/87/69/caption.jpg?w=1000&h=600&s=1",
+        "temps_trajet": 20,
+        "note": 4.0,
+        "prix_livraison": 3.50
+      },
+      {
+        "id": 5,
+        "nom": "Veggie Delight",
+        "logo_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/79/71/31/quinoa-burger.jpg?w=1200&h=500&s=1",
+        "temps_trajet": 35,
+        "note": 4.6,
+        "prix_livraison": 5.00
+      }
+    ]
+  }
+  
