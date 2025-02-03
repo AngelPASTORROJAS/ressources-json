@@ -31,6 +31,8 @@ service ssh status
 start-dfs.sh
 start-yarn.sh
 jps
+./start-hadoop.sh
+jps
 ```
 
 ---
