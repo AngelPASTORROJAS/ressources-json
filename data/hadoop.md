@@ -1,4 +1,7 @@
-0.Installer image docker : liliasfaxi/hadoop-cluster
+0.Installer image docker
+```
+liliasfaxi/hadoop-cluster
+```
 
 1.Lancer le docker 
 ```bash
