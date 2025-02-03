@@ -46,7 +46,7 @@ Le Wordcount permet de calculer le nombre de mots dans un fichier donné, en dé
 
 - L'étape de Reducing, qui permet de faire la somme des 1 pour chaque mot, pour trouver le nombre total d'occurrences de ce mot dans le texte.
 
-* Tester Map Reduce En local
+## Tester Map Reduce En local
 1- Ecrire votre programme mapper.py qui permet d’assurer le parsing de cette collection de mots et qui retourne un affichage comme suit:
 ```
 echo "Hello Big Data, Hello Hadoop" |python.exe .\mapper.py
@@ -56,7 +56,7 @@ echo "Hello Big Data, Hello Hadoop" |python.exe .\mapper.py
 echo "Hello BigData, Hello Hadoop" |python.exe .\mapper.py |sort |python.exe .\reduce.py
 ```
 
-* Tester Map Reduce En docker
+## Tester Map Reduce En docker  
 1- Déplacer les fichiers créer sur votre PC dans le docker hadoop:
 ```
 CONTAINER ID   IMAGE                       COMMAND       CREATED         STATUS         PORTS     NAMES
@@ -64,6 +64,8 @@ CONTAINER ID   IMAGE                       COMMAND       CREATED         STATUS 
 ```
 ```
 docker ps
+```
+```
 docker cp C:\Users\pasto\Downloads\input\. 9dca4bde43c1:/root/input/
 docker cp C:\Users\pasto\Downloads\mapper.py 9dca4bde43c1:/root/input/
 docker cp C:\Users\pasto\Downloads\reduce.py 9dca4bde43c1:/root/input/
@@ -82,7 +84,7 @@ echo "Hello BigData, Hello Hadoop" |python3 input/mapper.py |sort |python3 input
 ```
 
 
-* Tester Map Reduce sur le cluseter HDFS:
+## Tester Map Reduce sur le cluseter HDFS:
 
 Premiers pas avec Hadoop
 
@@ -94,7 +96,7 @@ Ensuite, les options rajoutées sont très largement inspirées des commandes Un
 hdfs dfs -mkdir -p /input
 ```
 
-[En local]
+### [En local]
 - Copier le fichier à tester file1.txt dans ce nouveau dossier input crée dans votre HDFS
 RQ: on suppose que vous avez stocké la collection de mots utilisée en local dans un fichier file1.txt
 ```
@@ -105,7 +107,7 @@ ou aussi:
 hdfs dfs -copyFromLocal C:/yourPath/file1.txt /input
 ```
 
-[En docker]
+### [En docker]
 Dans un nouveau terminal
 ```
 PS C:\Users\pasto> docker ps
