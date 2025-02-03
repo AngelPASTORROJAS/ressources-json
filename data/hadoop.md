@@ -69,6 +69,7 @@ Ensuite, les options rajoutées sont très largement inspirées des commandes Un
 hdfs dfs -mkdir -p /input
 ```
 
+[En local]
 - Copier le fichier à tester file1.txt dans ce nouveau dossier input crée dans votre HDFS
 RQ: on suppose que vous avez stocké la collection de mots utilisée en local dans un fichier file1.txt
 ```
@@ -79,6 +80,20 @@ ou aussi:
 hdfs dfs -copyFromLocal C:/yourPath/file1.txt /input
 ```
 
+[En docker]
+Dans un nouveau terminal
+```
+PS C:\Users\pasto> docker ps
+CONTAINER ID   IMAGE                       COMMAND       CREATED         STATUS         PORTS     NAMES
+9dca4bde43c1   liliasfaxi/hadoop-cluster   "/bin/bash"   2 minutes ago   Up 2 minutes             peaceful_elbakyan
+PS C:\Users\pasto> docker cp C:\Users\pasto\Downloads\input\. 9dca4bde43c1:/root/input/
+Successfully copied 2.56kB to 9dca4bde43c1:/root/input/
+```
+Puis dans le terminal root:
+```
+hdfs dfs -put /root/input/* /input
+```
+
 - Verifier que votre fichier est bien copié dans le nouveau dossier /input
 ```
 hdfs dfs -ls /input/
@@ -87,6 +102,7 @@ hdfs dfs -ls /input/
 - pour afficher le contenu de votre fichier:
 ```
 hdfs dfs -cat /input/file1.txt
+hdfs dfs -ls /input
 ```
 
 - hadoop streaming
