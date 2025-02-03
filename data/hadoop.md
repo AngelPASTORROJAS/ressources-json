@@ -56,6 +56,31 @@ echo "Hello Big Data, Hello Hadoop" |python.exe .\mapper.py
 echo "Hello BigData, Hello Hadoop" |python.exe .\mapper.py |sort |python.exe .\reduce.py
 ```
 
+* Tester Map Reduce En docker
+1- Déplacer les fichiers créer sur votre PC dans le docker hadoop:
+```
+CONTAINER ID   IMAGE                       COMMAND       CREATED         STATUS         PORTS     NAMES
+9dca4bde43c1   liliasfaxi/hadoop-cluster   "/bin/bash"   2 minutes ago   Up 2 minutes             peaceful_elbakyan
+```
+```
+docker ps
+docker cp C:\Users\pasto\Downloads\input\. 9dca4bde43c1:/root/input/
+docker cp C:\Users\pasto\Downloads\mapper.py 9dca4bde43c1:/root/input/
+docker cp C:\Users\pasto\Downloads\reduce.py 9dca4bde43c1:/root/input/
+```
+2- Les déplacer dans votre dossier crée input 
+```
+hdfs dfs -put /root/input/* /input
+```
+3- Les commandes
+```
+echo "Hello Big Data, Hello Hadoop" |python3 input/mapper.py
+```
+
+```
+echo "Hello BigData, Hello Hadoop" |python3 input/mapper.py |sort |python3 input/reduce.py
+```
+
 
 * Tester Map Reduce sur le cluseter HDFS:
 
