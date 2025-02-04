@@ -1,0 +1,1000 @@
+West Amychester	37
+Ryanburgh	-11
+Reneeview	30
+Smithport	13
+Port Joshua	28
+Chelseatown	29
+Garrettchester	-8
+Blairmouth	-14
+Butlertown	31
+Wallsport	16
+Figueroaberg	15
+South Melissa	18
+Harveymouth	16
+Rhodesport	10
+East Cody	30
+Colestad	-1
+South Angela	18
+West William	24
+Donnaborough	15
+Burkechester	-6
+South James	9
+Leeton	31
+Myerston	36
+New Justin	-3
+Jonathonport	-17
+New William	9
+Chenhaven	7
+Sophiaberg	-17
+Carolberg	13
+Williamport	33
+Allenview	31
+East Theresa	34
+Port Timothyfort	7
+South Matthewmouth	16
+East Debra	36
+North Taylor	1
+Port Mariah	19
+Lake Ericfort	22
+Meganside	-10
+West Jasmine	9
+North Stephen	29
+Paulfurt	9
+West Sabrina	38
+Lake Keithhaven	4
+East Roberthaven	30
+Woodardland	-4
+Woodsland	-20
+Bakerland	16
+West Jimmy	14
+Erinstad	39
+Zacharyburgh	-7
+East Aaron	-19
+Flowersshire	39
+Richardbury	-18
+Garzatown	-18
+Sandrastad	-1
+North Ryan	32
+South Krystal	38
+North Gregoryville	-8
+East Vicki	10
+Faulknerside	19
+Martinezside	1
+Grantville	-7
+Bridgesbury	29
+New Melanie	6
+South Ronniemouth	31
+Churchshire	-8
+Patelview	29
+New Davidburgh	-20
+Marcusside	-19
+Christopherchester	16
+Lake Reneehaven	-10
+Johnside	22
+Owensbury	12
+East Chelsey	8
+South Susan	38
+Tammyton	-18
+North Erika	8
+Jensenside	-19
+North Douglasborough	-7
+Deleontown	-1
+Melodyberg	27
+East Staceyfort	-3
+New Davidstad	16
+Allenmouth	-13
+Lake Shannon	33
+Johnburgh	-14
+New Keithfort	-11
+Debraberg	-5
+New Carolyn	-2
+Goodburgh	9
+Dawnchester	33
+Youngfurt	22
+Cherryview	-2
+East Brittany	-18
+Johnhaven	9
+West Karenberg	-3
+Garciaport	15
+Douglasstad	36
+Richardton	-1
+Kennethstad	-4
+North Jessemouth	3
+Olsonville	-8
+Toddchester	15
+North Crystalberg	25
+South Melissashire	36
+South Andreamouth	-18
+Michaelside	0
+Lake Theresa	-17
+North Leslie	-3
+West Allenburgh	24
+Cynthiaport	18
+Kiddmouth	22
+Jeremymouth	-10
+North Courtneyberg	17
+East Christopher	22
+Johnmouth	20
+West Johnhaven	27
+Guzmanstad	7
+Davidmouth	-16
+West Wendy	31
+West Kaylaville	2
+Reginastad	17
+East Dawnmouth	15
+Hallland	10
+Hallmouth	-13
+Espinozashire	4
+Nelsonside	4
+Ambermouth	27
+North Reginaldside	-5
+Lake Coreyburgh	-10
+Lake David	-1
+Angelahaven	-7
+Baileychester	19
+West Seth	36
+New Jenniferport	17
+North Linda	19
+Charlottemouth	-2
+Leonardchester	-13
+Ruizshire	4
+East Claire	12
+Seanchester	24
+East Mark	19
+Hartstad	32
+Garciaborough	20
+New Bonnie	27
+South Tonyaville	32
+Nguyenburgh	16
+Ramirezton	22
+Fordbury	-4
+Johnchester	32
+Wagnershire	6
+West Kellychester	20
+Meghanburgh	-4
+Lake Ashley	26
+Andersonfort	12
+Millerburgh	10
+Karenview	0
+New Jamie	3
+New Susan	-5
+New Chelseaberg	24
+New Kevinfurt	-1
+South Matthew	35
+Crystalberg	35
+South Dawn	14
+Schmidtport	7
+Karlastad	25
+Ericside	14
+North Valerieborough	-3
+South Deborah	3
+Andreaberg	7
+Clarkfort	-7
+Liuton	28
+Lake Charles	3
+Lake Kathy	10
+Leahburgh	-15
+Jerometown	37
+Port David	19
+North Rebecca	13
+Leechester	29
+Kelseyfurt	14
+Dianeside	8
+West Rachel	32
+North Janet	-19
+Michelemouth	-16
+Port Donaldborough	1
+North Jose	-12
+South Jill	30
+South Calebburgh	13
+Lake Stephenborough	34
+Birdfort	15
+Turnershire	28
+Davisview	15
+Davidmouth	5
+Tomton	-15
+West Larry	-19
+Thomashaven	15
+Melvinport	-13
+Suttonchester	-19
+Sancheztown	-19
+Jacobsonview	-13
+Rodriguezview	5
+North Meghan	16
+Boothborough	-7
+Sarashire	24
+Richardborough	30
+Mcguirestad	7
+Robertmouth	12
+New Richardfort	23
+South Ronald	-1
+Katherineton	14
+Fitzgeraldfurt	25
+Port Justin	16
+Jordantown	-4
+North Theresa	28
+Jonesport	22
+Nathanmouth	37
+Herreraview	23
+Jeremyburgh	-17
+Robertland	-12
+Nolanside	-1
+Jessicatown	26
+Banksside	-20
+Williamstown	32
+New William	0
+New David	12
+Ricardoland	14
+Garciaburgh	23
+Millershire	-15
+East Gregory	1
+Dillonview	4
+West Courtneytown	-18
+North Paul	-13
+Veronicaland	24
+East Rhonda	-9
+Mollyland	31
+Port Juanview	8
+West Thomas	34
+Glenport	11
+North Marymouth	-19
+South Ericfurt	-4
+Williammouth	30
+Lawsonburgh	-2
+Port Seanstad	-6
+Rachelport	1
+East Barbaraside	27
+New Kimberlyshire	27
+Jasonview	-15
+Johnsonfurt	13
+Lake Susan	22
+South Tammyton	-18
+Cookstad	7
+Christianbury	20
+Amandamouth	35
+Carlystad	-1
+Cortezberg	-5
+Thomastown	-13
+South Kelseystad	24
+Laurenmouth	9
+Lake Grantville	15
+New Kaylee	13
+West Amandafort	28
+Ronaldmouth	29
+Perezland	-4
+Christopherton	36
+Hillmouth	4
+Michaelshire	38
+Port Jessicastad	-15
+Lake Michaelville	31
+New Mariahfort	38
+Lake Bryce	22
+Lake Scott	-1
+Lake Carlos	-3
+Jorgefort	25
+Lake Victorialand	12
+Lake Brett	2
+Fosterborough	13
+Lake Nicholasport	18
+Maryberg	-11
+North Johnville	-15
+North James	-8
+Christopherland	22
+Thomashaven	35
+Port Toddmouth	-4
+East James	39
+Robertsonmouth	-3
+North Elizabethbury	-16
+Wilcoxberg	5
+Melissaberg	-6
+Morenoburgh	25
+West Ericashire	33
+Port George	-3
+Tracyton	9
+North Ronald	-14
+East Jonathanview	8
+Suzanneview	-10
+Jacksonstad	-15
+Douglasland	16
+East Caitlinfort	16
+South Sethbury	0
+Yolandafort	35
+Lake Gregorychester	30
+Gravesberg	30
+Barberberg	2
+North Sonyachester	33
+Port Andrewchester	-10
+Jacobchester	23
+North Thomaschester	39
+Ballton	10
+Mcmillanchester	39
+North Jasmineberg	-6
+South Elizabeth	31
+North Andrea	28
+Brooksburgh	36
+South Kristin	36
+New Michael	-19
+East Angelafort	20
+West Daniellefurt	-13
+Vanessachester	-15
+South Jasmineport	-5
+Smithtown	35
+Wellsstad	21
+South Timothy	32
+North Jennifershire	12
+East Melissa	3
+Lake Isaac	-6
+New Shannon	14
+East Karen	9
+Wendyfurt	31
+Mooretown	5
+Timothybury	33
+New Jessicaborough	-16
+Lake Thomas	-20
+Courtneyfurt	39
+Simpsontown	6
+Andersonville	0
+Lake Williamburgh	-15
+Port Nancyland	38
+South Jamestown	4
+North Natalie	-3
+Thomasfort	-16
+Lake Robert	36
+Port Christine	12
+Jessicatown	29
+West Matthew	-3
+East Nathaniel	-12
+Simmonsfurt	-11
+North Jessetown	16
+New Williamchester	11
+Normanport	10
+Zimmermanfort	-11
+Pagebury	24
+Donaldport	28
+New Edward	15
+Snyderhaven	12
+Edwardberg	-6
+West Jessica	3
+Carterchester	12
+Joannetown	36
+Caseyburgh	8
+East Nancy	23
+North Courtneyborough	13
+Jenniferberg	30
+Tammymouth	26
+Anitafurt	24
+North Richardmouth	-12
+New Monicatown	17
+West Angelabury	36
+Port Douglasfurt	-18
+East Emily	-3
+Port Robin	-5
+North Benjamin	-17
+Port Jennifer	1
+Phillipsburgh	28
+Lake Joelport	30
+Andersonview	9
+Port Angela	17
+Murillomouth	36
+West Corey	2
+Port Kristinbury	-2
+Port Michael	-13
+East Kellyport	35
+East Nicholas	29
+Tanyaview	6
+Chentown	36
+Christinabury	-16
+Port Morganmouth	25
+West Richardburgh	5
+Deborahside	6
+Shawbury	31
+New Jonathan	27
+Port Steven	-1
+Changstad	-6
+Lake Jamie	-2
+North Aarontown	37
+East Jamie	12
+Chadside	7
+East Lisa	16
+Johnton	18
+South Jose	0
+West Charlesmouth	24
+Lake Shawna	-17
+West Katherinechester	-2
+New Lauren	-7
+Sandrafort	31
+New Seanmouth	29
+Port Patrick	11
+Lake Rachelfort	13
+Port Brian	-2
+Alexandrachester	-8
+Amandaport	27
+South Robin	7
+Meganborough	19
+North Jessicabury	14
+East Yesenialand	-13
+Serranofort	10
+Morenomouth	25
+New Valerie	-4
+North Laurafort	-19
+South Jamesbury	4
+Juanview	-4
+South Nicole	25
+Rachelmouth	7
+Eatonside	17
+Port Charles	30
+Hallburgh	4
+Gillburgh	28
+Holdenview	-8
+Lake Brianborough	-16
+West Jason	28
+Port Mary	31
+New Randy	26
+Lake Patrick	20
+Josechester	-6
+Brookeland	29
+East Nathaniel	-10
+West Richardshire	7
+Martinezshire	-6
+Michaelberg	18
+Powelltown	-7
+New Charlotte	-16
+Hollowaymouth	2
+North Williamfort	-5
+Victoriashire	9
+Lake Blakeburgh	-6
+Roweland	22
+West Ericbury	5
+North Tammyfurt	-9
+New Veronica	11
+New Jenniferborough	7
+East Kyle	2
+South Philipmouth	26
+North Larryfurt	23
+Chapmanmouth	0
+Lake Jamie	35
+Freychester	-18
+South Charles	5
+Lake James	36
+Perkinsstad	-20
+Port Dianechester	11
+West Ashleyburgh	36
+New Erikatown	26
+Crosschester	-14
+North Angelica	-2
+Poncefort	2
+North Kevin	26
+Fosterbury	39
+South Tiffany	5
+Millerborough	-7
+Rodriguezfurt	-8
+South Sandra	17
+Watsonville	-1
+Debrabury	11
+Larrymouth	35
+West Derrickfort	8
+Combsbury	39
+Moralesstad	36
+Kimberlymouth	-1
+Clarkhaven	20
+Carlafort	20
+New Alexshire	37
+Nicholaston	5
+Port Ryanfurt	27
+Sheltontown	9
+New Robertoville	8
+Hilltown	32
+New Randyhaven	22
+Kellyshire	-10
+Bridgesfort	0
+West Anthonyhaven	-3
+Tapiaburgh	-20
+Espinozaville	19
+South Michaela	18
+Port Michael	14
+Port Michael	-19
+East Michael	28
+Port Angelaburgh	2
+South Amy	25
+Port Frederickshire	38
+Port Joelville	29
+New Christineview	2
+South Natalie	19
+West Michael	8
+Franklinville	-19
+Moniqueside	1
+Matthewtown	-18
+Lake Mariahaven	12
+South Timothy	30
+Timothyview	-14
+Manuelfurt	18
+West Markport	15
+North Jamesberg	33
+West Marc	16
+West Christopher	3
+New Beth	31
+West Thomasfurt	38
+East Eric	-2
+New Andremouth	18
+West Belindafort	5
+Savannahville	26
+Port Stephanie	-5
+Johnsonberg	29
+Thompsonton	7
+Wesleymouth	1
+North Jason	-19
+East Garrettshire	-11
+Rodriguezmouth	31
+Clarktown	-3
+Lake Ryanmouth	-9
+East Cathytown	-20
+North Ericastad	35
+Geneview	-17
+Gonzalesstad	37
+Lewisstad	34
+Deborahstad	16
+Mitchellstad	0
+Jamesshire	-1
+Port Elizabethport	27
+Johnsonport	-15
+North Aimee	0
+Higginsshire	-16
+Ellisonville	21
+Thomasmouth	-4
+Lake Maria	-4
+North Victoria	37
+Roseport	-15
+New Sandraborough	12
+East Marcland	2
+South Cathy	-17
+Kelleyport	-12
+Port Frankbury	8
+North Tammy	21
+West Annaton	-10
+Sanchezmouth	18
+West Stephanie	8
+South Maureen	11
+Fisherton	24
+Jacobmouth	-9
+East Walterview	14
+Wilsonside	7
+West Tannerfort	29
+East Martinton	-13
+New Brittanychester	19
+Brandymouth	18
+West Gregory	35
+Nicoleborough	38
+Georgeton	-15
+Port Stefaniebury	-11
+Wrightmouth	4
+Barrtown	-8
+North Angela	20
+Valerieborough	13
+Burnettfort	39
+South Melissa	-6
+Brendaburgh	25
+Nicoleland	-5
+Caitlinfort	-16
+Barneschester	2
+South Kennethview	32
+Kevinchester	-18
+North Morgan	-13
+East Brianville	25
+Lake Desireeside	-12
+North Kristen	-15
+Pattonville	19
+Jonathanberg	-5
+Port Evan	-5
+Brandimouth	21
+Jamesland	5
+Matthewfurt	2
+West Michael	5
+West Devonland	5
+Freystad	-1
+Williamschester	9
+East Lisaburgh	-11
+Wellsmouth	-9
+Lake Pamelaland	15
+East Shannon	6
+Vanceville	19
+Lake Josehaven	-2
+Whitneyville	-12
+Phillipston	-19
+Lake Andre	15
+Port Laurie	30
+Smithview	29
+South Danaborough	26
+Salastown	35
+South Amanda	-10
+Dunnton	-10
+East Alan	4
+Lake Timothy	11
+North Davidshire	23
+Port Karenport	7
+North Spencer	-7
+Port Luisfort	-6
+Port Paulbury	35
+Collinsshire	-15
+Claytonton	3
+Lake Ryan	22
+New Donald	19
+Spenceland	29
+Mcmahonberg	17
+New Amandaland	18
+East Charles	-9
+North Matthewchester	33
+Breannashire	36
+New Sherriberg	23
+North Pamela	4
+Youngfurt	-3
+Port Melanieville	1
+Lake Amyview	10
+Cunninghammouth	-2
+Port Allison	5
+Townsendport	9
+Codyport	17
+New Joann	29
+Davidchester	20
+East Nathan	29
+East Brendastad	22
+Lake Georgeland	11
+Carpenterton	19
+Donaldfort	-9
+Mendozaburgh	36
+Fowlerside	33
+Port Nicholas	-6
+Lake Karenmouth	12
+Billyhaven	-19
+East Michael	37
+Christopherville	33
+Amyton	-19
+Anthonybury	16
+Nicholsshire	38
+Ramosport	5
+Roseshire	-8
+Fernandezbury	-12
+Johnberg	30
+Beverlytown	-8
+Williamsshire	4
+Elizabethland	-1
+Port Paulton	-17
+Hernandezton	-10
+South Garymouth	-13
+South Denisetown	32
+North Karabury	8
+New Stevenfurt	-6
+Woodwardhaven	-12
+Martinton	26
+South Carl	15
+Burgessbury	15
+East Amystad	-3
+Olsenbury	3
+Robersonside	33
+Adamport	33
+South Jasonport	-8
+Lake Eugeneton	25
+New Joseph	-13
+Danielstad	38
+Amyfort	27
+North Emily	26
+Davidberg	19
+Cathyberg	10
+North Nicolechester	-1
+East Christina	22
+Lake Amy	25
+Baxterfurt	30
+New Roy	-19
+Gomezborough	23
+Blackwellport	-2
+Mahoneyville	-6
+West Matthewmouth	39
+Gardnerland	5
+Bellstad	17
+West Courtneytown	36
+South Jeremyton	36
+Haleview	-12
+South Gabrielle	30
+New Haydenland	14
+Brianborough	6
+Grayberg	-9
+New Denisefort	24
+Paulastad	-9
+Parkstad	20
+West Adrian	16
+West Christian	29
+Benjaminton	-8
+Morrisland	-3
+West Eric	11
+Lake Laura	-10
+Timothyland	28
+East Richard	-10
+East Sandra	-9
+West Alexanderburgh	9
+Lauraland	14
+Sarahchester	-10
+Simpsonmouth	-8
+Wilsonhaven	29
+North Davidstad	19
+Cynthiafort	28
+Acostamouth	-10
+Bushchester	-18
+Nixontown	37
+Chanfort	27
+Port Kevinshire	-9
+New Jennifer	26
+Jacobland	31
+Edwardshaven	32
+Williammouth	21
+Bradleyshire	38
+East Anne	7
+North Steven	-17
+Hunterchester	-4
+West Kelli	-20
+West Kristishire	-7
+North Robertborough	18
+Jeanneview	-16
+New Tamiborough	-17
+Lake Maryberg	-1
+Hillberg	-3
+West Oscarton	-4
+East Beth	-13
+South Amandaside	4
+North Natalie	-9
+East Anthony	2
+Sherryshire	7
+Youngville	-18
+Wallaceside	-12
+Sethview	-12
+Port Jacquelinestad	5
+Bryanview	18
+South Kristenshire	32
+Davidmouth	13
+North Carolyn	4
+Robinstad	1
+Melissaview	-16
+Deborahfurt	11
+West Corey	31
+Port Jasonhaven	-9
+Lake Jacqueline	17
+North Lauriebury	-13
+Fergusonton	2
+Danielside	22
+Timborough	39
+New Moniqueview	11
+East John	34
+Davisland	-11
+Cynthiaburgh	31
+North Tammy	31
+Lake Jenniferside	-2
+Riveraton	3
+Karashire	-1
+South Andrea	5
+Thomaschester	37
+Jacobview	-15
+Davisfurt	5
+Port David	25
+Arnoldborough	27
+North Mark	4
+North Matthew	31
+Lake Michaelborough	39
+North Karenborough	24
+Brucebury	6
+West Christinestad	36
+South Phillip	33
+East Claudia	23
+New Tanyaburgh	37
+Port Curtis	12
+Bethmouth	10
+West Christopher	-6
+East Donald	-13
+Hudsonfurt	12
+South Zacharyton	-19
+Lake Luis	34
+West Kelseyview	27
+Stephenside	25
+Lorihaven	34
+Mitchellside	23
+Lake Raymond	6
+Ayersfort	-5
+Cynthiafort	-16
+Michelleview	-10
+Watkinsville	1
+Sanchezhaven	19
+Sanchezstad	22
+Alexanderside	23
+Jamesberg	10
+Boothshire	2
+Johntown	-20
+Port Justinbury	-3
+South Annatown	38
+Martinfort	-8
+Millerton	7
+West Rhonda	23
+South Daniel	34
+Villarrealport	27
+Katherinemouth	2
+East Steven	11
+Bentleyview	32
+Philipville	14
+West Ginachester	14
+West Vincent	22
+Haileytown	-16
+Deniseberg	38
+Audreyfurt	16
+New Kimborough	-1
+Vaughnborough	24
+Port Sean	-3
+North Christopher	28
+Jonmouth	27
+Blankenshiphaven	-14
+Michealhaven	-14
+Vanessaberg	28
+Ambermouth	-11
+East Bryanshire	8
+Choimouth	-7
+North Darrell	36
+New Christopherside	-11
+Mccarthymouth	1
+Lake Angelafort	-18
+Collinsview	-11
+West Jonathantown	26
+Hallberg	36
+Dawnberg	16
+New Anthonyburgh	8
+New Hannah	32
+Lake Hectorport	-20
+South Juliefurt	-10
+Sullivanton	-7
+North Kevin	23
+North Candice	-18
+Destinyview	17
+Perezstad	-13
+Sosaborough	3
+East Georgemouth	10
+North Matthew	-3
+West Alice	-17
+Brianville	27
+Simsfurt	14
+Washingtonbury	-4
+Nelsonport	31
+West Michelleville	-2
+Houstontown	30
+Johnsonmouth	22
+Ricehaven	-2
+Ricardostad	8
+Port Bradley	15
+Ricemouth	33
+East Josephville	6
+Port Caitlinside	29
+Stefanietown	19
+Port Amandaton	22
+Port Felicia	26
+South Austinfort	-15
+West Natashatown	8
+Whitneymouth	23
+Jessicamouth	-1
+Port John	-10
+Derrickland	-10
+Richardsonberg	-11
+Cameronton	7
+South Sarah	15
+South Jessebury	-9
+East Conniebury	12
+Port Kathrynville	18
+West Michael	11
+North Madeline	31
+Pricebury	2
+Lisamouth	7
+Lake Rebeccatown	37
+Kimberlyborough	1
+North Jacob	13
+West Justin	24
+Timothyfurt	21
+Williamtown	31
+Melissafurt	23
+Pennyton	15
+East Michael	21
+North Martinchester	38
+Claytonborough	3
+Deannahaven	20
+East Pamela	32
+West Natalieborough	3
+Leefurt	38
+New Jose	-12
+Port Veronicaview	21
+New David	25
+Courtneyshire	27
+Owensland	-5
+Smithmouth	16
+Emilyside	-19
+South Mallory	10
+Sydneyfurt	17
+Kelleyview	22
+Moorechester	-20
+South Danielle	-1
+Sullivanside	-14
+Deleonport	9
+East John	-17
+Lake Abigail	11
+Port Annaburgh	9
+Coleport	-4
+Strongview	-17
+South Mollymouth	6
+Rossstad	-14
+Travisport	21
+Hesterton	17
+Salashaven	-9
+West Brendan	-3
+Cisneroshaven	35
+Royland	23
+Smithhaven	-17
+Lake Elizabethmouth	0
+New Andreaberg	7
+Cameronchester	35
+Scotttown	8
+Castroshire	-6
+Port Megantown	-6
+Charlesfurt	-4
+New Christinamouth	15
+Nicholston	33
+Spencerfort	18
+Sandrashire	23
+Karenchester	7
+East Christopher	18
+North Angelamouth	3
+Danielleborough	0
+Lake Kathleen	39
+Colemanburgh	3
+West Adam	14
+Middletonbury	12
+Andrewville	-19
+Port Cindy	2
+Ryanchester	1
+East Steven	37
+Brownborough	-16
+Lake Kenneth	25
+Fernandezmouth	20
+Bowenstad	19
+Wilsonside	4
+South Brianstad	2
+Russellland	-3
+Lake Michael	32
+West Angelicashire	6
+Ramirezstad	-12
+Port Melanieberg	-15
+North Elizabeth	13
+Brianland	2
+Nataliehaven	38
+Snyderbury	-2
+Taraburgh	-10
+Nicholasbury	9
+Lake Katherine	-9
+Bartletttown	10
+Lisaburgh	-13
+Katherinebury	38
+West Karenfort	10
+East Jasmine	22
+East Caitlinshire	1
+Andersonmouth	-13
+Thomasmouth	5
+Maryside	24
+Richardsonside	34
+West Jeffrey	34
+Beverlychester	-1
+West Jacob	5
+South Kevinhaven	25
+Cruzborough	37
+Kathrynberg	22
+New Jeremiahville	-17
+Englishberg	32
+Kathychester	0
+North Christinahaven	29
+West Mercedeschester	-1
+Jenniferview	37
+West Ericburgh	17
+Lake Lauraland	13
+Marquezhaven	24
+Brookefort	5
+Williamview	-13
+Markshire	17
+Paulville	0
