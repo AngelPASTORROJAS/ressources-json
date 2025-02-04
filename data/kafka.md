@@ -203,9 +203,6 @@ pip install confluent-kafka
 
 sur le terminal `producer` lance:
 ```bash
-pip install requests
-pip install bs4
-pip install pandas
 spark-submit --packages org.apache.spark:spark-streaming-kafka-0-8_2.11:2.4.8 producer.py
 ```
 
@@ -246,6 +243,9 @@ docker cp C:\Users\pasto\Downloads\kafka\producer-scrapt.py 6f63aeed8cfa:/root
 
 Le producer:
 ```bash
+pip install requests
+pip install bs4
+pip install pandas
 spark-submit --packages org.apache.spark:spark-streaming-kafka-0-8_2.11:2.4.8 producer-scrapt.py
 ```
 
