@@ -245,3 +245,126 @@ Le producer:
 ```bash
 spark-submit --packages org.apache.spark:spark-streaming-kafka-0-8_2.11:2.4.8 producer-scrapt.py
 ```
+
+Le consumer:
+```bash
+kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic Hello-Kafka
+```
+
+
+---
+
+# Le Hbase
+```bash
+docker exec -it hadoop-master bash
+```
+
+```bash
+start-all.sh
+start-hbase.sh
+jps
+hbase shell
+```
+
+```bash
+# hbase:001:0>
+
+# Lister le nombre de serveurs hbase utilisés
+status
+
+
+
+# La version Hbase utilisée
+version
+
+# Avoir des informations sur l’utilisateur actuel
+whoiam
+
+# Commande help sous hbase pour connaitre toutes les commandes disponibles et leurs explications
+table_help
+
+# --- Manipulation de tables sous HBASE
+
+# Lister les tables créées sous Hbase
+list
+
+# Créer une table Hbase : pour le faire, il faut donner le nom de table et les noms des "column families".
+## create 'tableName','Column1Name','Column2Name'
+# Dans notre exemple, le nom de la table est costumer et les noms des colonnes families sont : address et order .
+create 'costumer', 'address', 'order'
+
+# Vérifier la création de la table costumer
+list
+
+# Afficher le contenu de la table costumer
+scan 'costumer'
+
+# Désactiver la table costumer
+disable 'costumer'
+
+# Afficher le contenu de la table désactivée
+scan 'costumer'
+
+# Vérifier si la table costumer est désactivée
+is_disabled 'costumer'
+
+# Vérifier si la table costumer existe
+exists 'costumer'
+
+# Description de la table costumer
+describe 'costumer'
+
+# Activer la table costumer
+enable 'costumer'
+
+# Description de la table costumer
+describe 'costumer'
+
+# Ajouter une colonne famille à la table costumer
+alter 'costumer', {NAME=>'personal data'}
+
+# Supprimer une colonne famille de la table costumer
+alter 'costumer', 'delete'=>'personal data'
+
+# Ajouter un client à la table costumer
+put 'costumer', '1', 'address:city','Paris' put 'costumer', '1', 'address:state','France' put 'costumer', '1', 'address:street','Bailly' put 'costumer', '1', 'order:number','ORD-15' put 'costumer', '1', 'order:amount','15'
+
+# Afficher le contenu de la table costumer
+scan 'costumer'
+
+# Ajouter un deuxième client à la table costumer
+put 'costumer', '2', 'address:city','Nancy' put 'costumer', '2', 'address:state','France' put 'costumer', '2', 'address:street','Belfort' put 'costumer', '2', 'order:number','ORD-16' put 'costumer', '2', 'order:amount','15'
+
+# Lecture des données de la table costumer
+get 'costumer', '1' 
+get 'costumer', '1', 'address'
+get 'costumer', '1', 'address:city' 
+get 'costumer', '1', {COLUMN=>'address:city'} 
+get 'costumer', '1', {COLUMN=>['address:city','address:street']} 
+scan 'costumer',{COLUMNS=>['address:city']} 
+scan 'costumer',{COLUMNS=>['address:city'], LIMIT=>1}
+
+# Retourner le nombre de clients dans la table costumer
+count 'costumer'
+
+# Supprimer la colonne city pour le client 1
+delete 'costumer' , '1', 'address:city'
+
+# Supprimer toutes les cases du client 2
+deleteall 'costumer', '2'
+
+# Ajouter l’historique des versions à une colonne
+alter 'costumer',{NAME=>'address',VERSIONS=>5}
+
+# Afin de tester le résultat de VERSIONS, on insère 3 valeurs différentes pour un client 3 et on affiche la deuxième version.
+put 'costumer', '3', 'address:city','Paris' 
+put 'costumer', '3', 'address:city','Lyon' 
+put 'costumer', '3', 'address:city','Nantes'
+scan 'costumer',{COLUMN=>'address:city',VERSIONS=>2}
+
+# Supprimer la table costumer (il faut la désactiver avant de la supprimer)
+disable 'costumer'
+drop 'costumer'
+```
+
+[documentation happybase](https://happybase.readthedocs.io/en/latest/user.html#establishing-a-connection)
