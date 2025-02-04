@@ -1,17 +1,56 @@
+
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
-URL = "https://realpython.github.io/fake-jobs/"
-page = requests.get(URL)
+from confluent_kafka import Producer
+import json
 
-soup = BeautifulSoup(page.content, "html.parser")
-job_elements = soup.find_all("div", class_="card-content")
-liste = []
-for i in range(0,len(job_elements)):  
-        title = job_elements[i].find("h2").contents[0].strip()
-        company = job_elements[i].find("h3").contents[0].strip()
-        location = job_elements[i].find("p", {"class":"location"}).contents[0].strip()
-        liste.append((title, company, location))
-       
-df = pd.DataFrame(liste, columns=["title", "company", "location"])
-df
+def delivery_report(err, msg):
+    if err is not None:
+        print('Message delivery failed: {}'.format(err))
+    else:
+        print('Message delivered to {} [{}]'.format(msg.topic(), msg.partition()))
+
+def scrape_jobs():
+    URL = "https://realpython.github.io/fake-jobs/"
+    page = requests.get(URL)
+    soup = BeautifulSoup(page.content, "html.parser")
+    job_elements = soup.find_all("div", class_="card-content")
+   
+    jobs = []
+    for job in job_elements:
+        title = job.find("h2").text.strip()
+        company = job.find("h3").text.strip()
+        location = job.find("p", class_="location").text.strip()
+        jobs.append({"title": title, "company": company, "location": location})
+   
+    return jobs
+
+def produce_messages(producer, topic, jobs):
+    for job in jobs:
+        key = job["title"]
+        value = json.dumps(job)
+        producer.produce(topic, key=key, value=value, callback=delivery_report)
+   
+    producer.flush()
+
+def main_producer():
+    producer_config = {
+        'bootstrap.servers': 'localhost:9092',  # Remplacez par votre configuration Kafka
+        'acks': 'all',
+    }
+
+    producer = Producer(producer_config)
+    topic_name = 'jobs_topic'  # Remplacez par le nom du topic Kafka que vous utilisez
+
+    jobs = scrape_jobs()
+   
+    try:
+        produce_messages(producer, topic_name, jobs)
+    except KeyboardInterrupt:
+        pass
+    finally:
+        producer.flush()
+
+if __name__ == "__main__":
+    main_producer()
