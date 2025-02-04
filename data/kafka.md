@@ -246,12 +246,13 @@ Le producer:
 pip install requests
 pip install bs4
 pip install pandas
+# kafka-console-producer.sh --broker-list localhost:9092 --topic Hello-Kafka
 spark-submit --packages org.apache.spark:spark-streaming-kafka-0-8_2.11:2.4.8 producer-scrapt.py
 ```
 
 Le consumer:
 ```bash
-kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic Hello-Kafka
+kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic jobs_topic
 ```
 
 
