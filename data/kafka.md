@@ -203,6 +203,9 @@ pip install confluent-kafka
 
 sur le terminal `producer` lance:
 ```bash
+pip install requests
+pip install bs4
+pip install pandas
 spark-submit --packages org.apache.spark:spark-streaming-kafka-0-8_2.11:2.4.8 producer.py
 ```
 
