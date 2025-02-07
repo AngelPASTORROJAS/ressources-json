@@ -7,7 +7,7 @@
       "temps_trajet": 25,
       "note": 4.5,
       "prix_livraison": 3.99,
-      "type": "Français",
+      "type": ["Français", "Bistrot"],
       "prix_moyen": 20,
       "allergenes": ["Gluten", "Lactose"],
       "regime": ["Végétarien"]
@@ -19,7 +19,7 @@
       "temps_trajet": 15,
       "note": 4.2,
       "prix_livraison": 2.99,
-      "type": "Japonais",
+      "type": ["Japonais", "Sushi"],
       "prix_moyen": 25,
       "allergenes": ["Poisson", "Soja"],
       "regime": ["Sans gluten"]
@@ -27,11 +27,11 @@
     {
       "id": 3,
       "nom": "Pizza Perfection",
-      "logo_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/3f/82/74/pizza-roquette-balsamique.jpg?w=1000&h=600&s=1",
+      "logo_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/3f/82/74/pizza-roquette-balsamique.jpg?w.1000&h=600&s=1",
       "temps_trajet": 30,
       "note": 4.8,
       "prix_livraison": 4.50,
-      "type": "Italien",
+      "type": ["Italien", "Pizza"],
       "prix_moyen": 15,
       "allergenes": ["Gluten", "Lactose"],
       "regime": ["Végétarien"]
@@ -43,7 +43,7 @@
       "temps_trajet": 20,
       "note": 4.0,
       "prix_livraison": 3.50,
-      "type": "Américain",
+      "type": ["Américain", "Burger"],
       "prix_moyen": 18,
       "allergenes": ["Gluten", "Lactose", "Œuf"],
       "regime": []
@@ -55,7 +55,7 @@
       "temps_trajet": 35,
       "note": 4.6,
       "prix_livraison": 5.00,
-      "type": "Végétarien",
+      "type": ["Végétarien", "Vegan"],
       "prix_moyen": 22,
       "allergenes": ["Soja", "Noix"],
       "regime": ["Végétalien", "Sans gluten"]
@@ -67,7 +67,7 @@
       "temps_trajet": 22,
       "note": 4.3,
       "prix_livraison": 3.75,
-      "type": "Mexicain",
+      "type": ["Mexicain", "Tacos"],
       "prix_moyen": 16,
       "allergenes": ["Gluten", "Lactose"],
       "regime": ["Sans lactose"]
@@ -79,7 +79,7 @@
       "temps_trajet": 28,
       "note": 4.4,
       "prix_livraison": 4.25,
-      "type": "Asiatique",
+      "type": ["Asiatique", "Nouilles"],
       "prix_moyen": 14,
       "allergenes": ["Gluten", "Soja"],
       "regime": ["Végétarien"]
