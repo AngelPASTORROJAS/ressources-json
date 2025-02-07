@@ -27,7 +27,7 @@
     {
       "id": 3,
       "nom": "Pizza Perfection",
-      "logo_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/3f/82/74/pizza-roquette-balsamique.jpg?w.1000&h=600&s=1",
+      "logo_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/3f/82/74/pizza-roquette-balsamique.jpg?w=1000&h=600&s=1",
       "temps_trajet": 30,
       "note": 4.8,
       "prix_livraison": 4.50,
